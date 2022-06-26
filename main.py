@@ -13,3 +13,6 @@ if idade <=18:
 
 else:
     print('Voce é de maior, boa festa')
+    print('Bem vindo a festa xx')
+
+
